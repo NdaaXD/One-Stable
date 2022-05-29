@@ -6,10 +6,10 @@ let handler = async (m, { conn, text }) => {
 _*Grup Official*_
 ━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━ꕥ
-┃ *_Grup Utama_*  : https://chat.whatsapp.com/GfwblXDHAqF4iA27wk8Gf4 => Ramein
-┃ *_Grup Kedua_*  : https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD
-┃ *_Grup Ketiga_* : https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB
-┃ *_Grup Keempat_* : https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi
+┃ *_Grup Utama_*  : https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS => Ramein
+┃ *_Grup Kedua_*  : https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS
+┃ *_Grup Ketiga_* : https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS
+┃ *_Grup Keempat_* : https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS
 ┃ *_Grup Kelima_* : https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS
 ┗━━━━━━━━━━━━━ꕥ
 `.trim()
