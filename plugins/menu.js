@@ -32,7 +32,7 @@ Hai *%name!*
   body: '┃ ☂︎ ⎙ %cmd %islimit %isPremium',
   footer: '┗━ꕥ',
   after: `
-*One Bot V. 4.41*
+*NdaaBotz*
 *Colour Your Life*
 `,
 }
@@ -240,7 +240,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 │⬡ Platform : VPS
 ┗──────────⬣
 Jangan Lupa Join Ke Grup Bot
-https://tinyurl.com/y3xttxhg`.trim(),
+`.trim(),
                         "footerText": "𝖮𝗇𝖾 𝖡𝗈𝗍𝗓\n𝖢𝗈𝗅𝗈𝗎𝗋 𝖸𝗈𝗎𝗋 𝖫𝗂𝖿𝖾\n●‿‿<",
                         "buttonText": "ᴸⁱˢᵗ ᴹᵉⁿᵘ",
                         "listType": "SINGLE_SELECT",
